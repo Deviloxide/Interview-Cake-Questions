@@ -1,6 +1,5 @@
 import random
 
-
 def two_egg_dropper(limit):
     total = 0
     addition = 0
