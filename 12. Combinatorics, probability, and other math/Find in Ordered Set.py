@@ -31,8 +31,8 @@ def find_duplicate(num_list):
     correct_total = (length ** 2 + length) / 2
 
     # Finding the difference between the correct_total and total only results in the distance between the added value
-    # and the length of the list, so finding the difference between length and the original difference gives what must be
-    # the added value
+    # and the length of the list, so finding the difference between length and the original difference gives what must
+    # be the added value
     difference = int(length - (correct_total - total))
 
     return difference
