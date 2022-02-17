@@ -1,3 +1,5 @@
-# Find in Ordered Set
+# Which Appears Twice
 
-## Suppose we had a list ↴ of nn integers sorted in ascending order. How quickly could we check if a given integer is in the list?
+## I have a list of n + 1n+1 numbers. Every number in the range 1..n1..n appears once except for one number that appears twice.
+
+### Write a function for finding the number that appears twice.
